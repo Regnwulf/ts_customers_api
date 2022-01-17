@@ -9,7 +9,7 @@ Run `sudo -u postgres psql` to enter in postgres terminal
 
 Run `CREATE DATABASE <database_name_here>;` to create a new 
 
-Run `ALTER USER postgres PASSWORD '<new_pwd_here>';` in need to reset database 
+Run `ALTER USER postgres PASSWORD '<new_pwd_here>';` in need to reset database password
 
 Run `exit` or `CTRL + d` to exit postgres terminal
 
